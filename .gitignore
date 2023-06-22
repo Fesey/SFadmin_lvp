@@ -1,3 +1,4 @@
 /ansible/*
+/ansible/playbooks/*
 !/ansible/playbooks/zabbix.yml
 !/ansible/playbooks/redis.yml
